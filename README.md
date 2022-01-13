@@ -1,11 +1,7 @@
 <div align="center">
   <p>
     <h1>
-      <a href="https://github.com/MiCode/MiBridge">
-        <img src="http://f2.market.mi-img.com/download/MiPass/08df2de4d3ab74451b8f86ef86415eaddd122982d/xiaomi_circle.svg" alt="MiBridge" />
-      </a>
-      <br />
-      Flameshot
+      MISPEED
     </h1>
     <h4>Powerful yet simple to use screenshot software.</h4>
   </p>
